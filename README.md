@@ -6,7 +6,9 @@ A simple and intuitive web application built with React.js and Tailwind CSS that
 
 ---
 
-(<img width="1279" height="884" alt="image" src="https://github.com/user-attachments/assets/7378279d-45f7-4844-906b-c43775c5fdd6" />) 
+# Screenshot
+
+<img width="1279" height="884" alt="image" src="https://github.com/user-attachments/assets/7378279d-45f7-4844-906b-c43775c5fdd6" /> 
 
 ---
 
