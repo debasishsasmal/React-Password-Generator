@@ -9,9 +9,7 @@ A simple and intuitive web application built with React.js and Tailwind CSS that
 # Screenshot
 
 <img width="1279" height="884" alt="image" src="https://github.com/user-attachments/assets/7378279d-45f7-4844-906b-c43775c5fdd6" /> 
-
 ---
-
 ## Features
 
 - **Customizable Length:** Generate passwords of any length between 6 and 50 characters using a range slider.
