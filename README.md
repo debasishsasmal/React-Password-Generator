@@ -16,8 +16,7 @@ A simple and intuitive web application built with React.js and Tailwind CSS that
 
 ## Screenshot
 
-![React Password Generator Screenshot](<img width="1279" height="686" alt="image" src="https://github.com/user-attachments/assets/498aef2b-a832-4f7c-9377-5e6a2f6bbb79" />
-)
+<img width="1279" height="686" alt="image" src="https://github.com/user-attachments/assets/498aef2b-a832-4f7c-9377-5e6a2f6bbb79" />
 
 ---
 
