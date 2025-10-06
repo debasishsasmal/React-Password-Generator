@@ -2,7 +2,7 @@
 
 A simple and intuitive web application built with React.js and Tailwind CSS that generates strong, random passwords based on user-defined criteria.
 
-### [Live Demo]([<YAHAN_APNA_NETLIFY_LINK_DAALO](https://glittering-cajeta-9814b5.netlify.app/))
+### [Live Demo]((https://glittering-cajeta-9814b5.netlify.app/))
 
 ---
 
